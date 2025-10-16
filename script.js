@@ -47,10 +47,7 @@ let tableauCitation = [
     citation: "Penser, c'est comme vivre, on ne peut pas se contenter d'un modèle prédéfini.",
     auteur: "Simone de Beauvoir"
   },
-  {
-    citation: "Le changement est la loi de la vie. Et ceux qui ne regardent que le passé ou le présent sont certains de manquer l'avenir.",
-    auteur: "John F. Kennedy"
-  },
+
   {
     citation: "Il n'y a qu'une seule façon d'éviter la critique : ne rien faire, ne rien dire et n'être rien.",
     auteur: "Aristote"
@@ -62,11 +59,8 @@ let tableauCitation = [
   {
     citation: "Les défis rendent la vie intéressante. Les surmonter la rend significative.",
     auteur: "Joshua J. Marine"
-  },
-  {
-    citation: "Deux choses sont infinies : l'univers et la bêtise humaine ; mais en ce qui concerne l'univers, je n'en ai pas encore acquis la certitude absolue.",
-    auteur: "Albert Einstein"
-  },
+  }
+  
     
 ];
 
