@@ -68,8 +68,8 @@ let description = document.getElementById("description");
 let auteurs = document.getElementById("auteurs");
 let btn = document.getElementById("btn1");
 
-let copier = document.getElementById("copier")
-let partager = document.getElementById("partager")
+// let copier = document.getElementById("copier")
+// let partager = document.getElementById("partager")
 
 
 function GetCitation(){
@@ -82,5 +82,6 @@ auteurs.textContent = cit.auteur;
 
 btn.addEventListener('click', GetCitation);
 GetCitation();
+
 
 
